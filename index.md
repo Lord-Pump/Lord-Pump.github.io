@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Lord Pump's Test Site
 ---
+This is a test!
